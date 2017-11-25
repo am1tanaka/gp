@@ -31,6 +31,7 @@
 # 後期7回目(11/29)
 ## 話題
 - [Y_YOSHINARI. Web出身のUnityエンジニアによる大規模ゲームの基盤設計](https://developers.cyberagent.co.jp/blog/archives/4262/)
+- [Seamless. ウィスコンシン大学ら、粒子法の一つであるGIMP法を用いて弾塑性モデルをシミュレートする提案を論文にて発表](http://shiropen.com/2017/11/25/29858)
 
 ## 予定
 - Rigidbodyの練習問題
